@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amish Jadhav - iOS Developer Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -30,8 +28,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Amish Jadhav</h1>
-        <h2>iOS Developer</h2>
+        <h1>iOS Developer</h1>
         <p>Welcome to my portfolio! Stay tuned for updates.</p>
     </div>
 </body>
